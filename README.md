@@ -1,38 +1,47 @@
 ### Hi there 👋, I'm Priyanshu!
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Java+%26+Python+Enthusiast;AWS+Certified+Cloud+Developer;Building+Real-World+Solutions" alt="Typing SVG" />
+
 🎓 **BSc Computing Student** at London Metropolitan University (Islington College, Nepal)  
-💻 **Full-Stack Developer** focused on Java, Python, and building real-world web solutions.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**💻 Languages**  
+**Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**🌐 Frontend**  
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**⚙️ Backend & Database**  
+**Backend & Database**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JSP/Servlets](https://img.shields.io/badge/JSP%2FServlets-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🛠️ Tools & Platforms**  
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+### 📜 AWS Certifications
+![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Machine Learning Foundations](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ML for NLP](https://img.shields.io/badge/AWS-ML_for_NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Data Engineering Foundations](https://img.shields.io/badge/AWS-Data_Engineering_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Generative AI Foundations](https://img.shields.io/badge/AWS-Generative_AI_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -40,26 +49,6 @@
 
 🔹 **[BigBallKnowledge](https://github.com/pm725/BigBallKnowledge)**  
 *Interactive Multi-Sport Quiz Platform (Java JSP/Servlets + MySQL)*
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
-### 📜 AWS Certifications
-
-![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Machine Learning Foundations](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS ML for NLP](https://img.shields.io/badge/AWS-ML_for_NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Data Engineering Foundations](https://img.shields.io/badge/AWS-Data_Engineering_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 🚀 Future Development (Upcoming Projects)
-
-🔹 **InsurePro – AI-Powered Health Risk Profiler**  
-*Full Stack (Java JSP/Servlets + MySQL + Chart.js)*  
-A dynamic health insurance platform that analyzes user lifestyle data (BMI, blood pressure, smoking habits) using a rule-based scoring algorithm to generate personalized risk scores and estimated premiums. Features include dynamic data visualization, claim filing with document uploads, and an admin dashboard for claim management.
-
-🔹 **CampusSync – College Event & Club Management System**  
-*Full Stack (Next.js + Node.js + WebSockets + PostgreSQL)*  
-A real-time platform for colleges to manage events, club registrations, and student networking. Features include WebSocket-based event chat rooms, role-based access control (Admin, Club Head, Student), and automated feedback sentiment analysis using AI.
+🔹 **[Gym Management System](https://github.com/pm725/Gym-Management-System)**  
+*Java OOP project with GUI and file handling*
