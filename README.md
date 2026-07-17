@@ -51,4 +51,4 @@
 ![AWS Machine Learning Foundations](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS ML for NLP](https://img.shields.io/badge/AWS-ML_for_NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Data Engineering Foundations](https://img.shields.io/badge/AWS-Data_Engineering_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Generative AI Foundations](https://img.shields.io/badge/AWS-Generative_AI_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
