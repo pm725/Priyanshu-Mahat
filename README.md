@@ -52,3 +52,14 @@
 ![AWS ML for NLP](https://img.shields.io/badge/AWS-ML_for_NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Data Engineering Foundations](https://img.shields.io/badge/AWS-Data_Engineering_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
+
+### 🚀 Future Development (Upcoming Projects)
+
+🔹 **InsurePro – AI-Powered Health Risk Profiler**  
+*Full Stack (Java JSP/Servlets + MySQL + Chart.js)*  
+A dynamic health insurance platform that analyzes user lifestyle data (BMI, blood pressure, smoking habits) using a rule-based scoring algorithm to generate personalized risk scores and estimated premiums. Features include dynamic data visualization, claim filing with document uploads, and an admin dashboard for claim management.
+
+🔹 **CampusSync – College Event & Club Management System**  
+*Full Stack (Next.js + Node.js + WebSockets + PostgreSQL)*  
+A real-time platform for colleges to manage events, club registrations, and student networking. Features include WebSocket-based event chat rooms, role-based access control (Admin, Club Head, Student), and automated feedback sentiment analysis using AI.
