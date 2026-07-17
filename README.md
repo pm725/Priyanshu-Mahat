@@ -42,3 +42,13 @@
 *Interactive Multi-Sport Quiz Platform (Java JSP/Servlets + MySQL)*
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+### 📜 AWS Certifications
+
+![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Machine Learning Foundations](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ML for NLP](https://img.shields.io/badge/AWS-ML_for_NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Data Engineering Foundations](https://img.shields.io/badge/AWS-Data_Engineering_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Generative AI Foundations](https://img.shields.io/badge/AWS-Generative_AI_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
